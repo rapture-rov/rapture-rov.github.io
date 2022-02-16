@@ -2,3 +2,6 @@ baseURL = 'https://rapture-rov.github.io'
 languageCode = 'en-us'
 title = 'Rapture ROV'
 theme = 'hyde'
+
+[params]
+  description = "High school ROV (Remotely Operated Underwater Vehicle) team from Turkey"
