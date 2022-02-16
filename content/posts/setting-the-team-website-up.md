@@ -2,7 +2,7 @@
 title: "Setting the Team Website Up"
 date: 2022-02-16T22:06:12+03:00
 author: "Bayram Kazık"
-draft: true
+draft: false
 ---
 
 The Rapture ROV team website is built using [Hugo](https://gohugo.io) static site generator with [Hyde theme](https://github.com/spf13/hyde). In this blog I will be explaining the why's and how's of this decision.
