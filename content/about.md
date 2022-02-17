@@ -9,6 +9,8 @@ We are a ROV (Remotely Operated Underwater Vehicle) team consisting of high scho
 
 ![Rapture Team Logo](/static/rapture-logo.png)
 
+## Members
+
 ---
 
 *Author: Rapture Team*
