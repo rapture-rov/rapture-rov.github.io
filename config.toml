@@ -5,6 +5,7 @@ theme = 'hyde'
 
 [params]
   description = "High school ROV (Remotely Operated Underwater Vehicle) team from Turkey"
+  themeColor = "theme-base-0d"
 
 [Menus]
   main = [
