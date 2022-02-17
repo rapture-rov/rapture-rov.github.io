@@ -5,3 +5,10 @@ theme = 'hyde'
 
 [params]
   description = "High school ROV (Remotely Operated Underwater Vehicle) team from Turkey"
+
+[Menus]
+  main = [
+    {Name = "About", URL = "https://rapture-rov.github.io/about/"},
+    {Name = "GitHub", URL = "https://github.com/rapture-rov/"},
+  ]
+
